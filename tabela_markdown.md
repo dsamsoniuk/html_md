@@ -8,4 +8,4 @@
 
 
 
-[logo1]: http://www.753.sk/uploads/5/3/8/0/5380584/citan.jpg "Logo Title Text 2"
+[logo1]: http://www.753.sk/uploads/5/3/8/0/5380584/citan.jpg =100x20 "Logo Title Text 2"
