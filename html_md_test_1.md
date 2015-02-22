@@ -1,7 +1,8 @@
 #### Projekt na zaliczenie
 #MarkDown Projekt
 Tabelka1:
-|GHM  | Ascii |
+
+
 | GHM       | Ascii           | Cool  |
 | ------------- |:-------------:| 
 | col 3 is      | right-aligned | 
