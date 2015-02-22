@@ -1,6 +1,6 @@
 #Tabela Markdown
 
-
+[[ http://url.to/image.png | height = 100px ]]
 
 | Zdjęcie   |Nazwa   | Marka  |  Model |  Nadwozie | Silnik | Moc silnika | Produkowany | 
 |-----------|--------|-------|--------|----------|---------|-------------|-------------|
