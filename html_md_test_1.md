@@ -3,20 +3,12 @@
 Tabelka1:
 
 
-| GHM       | Ascii           | 
-| ------------- |-------------:| 
-| col 3 is      | right-aligned | 
+|         | GHM           | Ascii        | 
+|         | :-------------: |--------------:| 
+| I tutaj jakies porownanie bedzie  |   nie mozna laczycz pol    | \mozna laczyc pola| 
 | col 2 is      | centered      | 
 | zebra stripes | are neat      |   
 
 
-
-$$  2+3 $$
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
