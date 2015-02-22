@@ -1,6 +1,6 @@
 #Tabela Markdown
 
-[[ http://url.to/image.png | height = 100px ]]
+[![alt text][ http://data.motor-talk.de/data/galleries/0/83/3325/40622277/dsci0060-2322695060863130847.JPG | height = 100px ]]
 
 | Zdjęcie   |Nazwa   | Marka  |  Model |  Nadwozie | Silnik | Moc silnika | Produkowany | 
 |-----------|--------|-------|--------|----------|---------|-------------|-------------|
