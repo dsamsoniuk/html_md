@@ -1,24 +1,39 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>Tabelka w html</title>
-	</head>
-	<body>
-	  <table>
-	  <tr>
-	    	<td rowspan="3"></td><td>Nazwa</td><td>Marka</td><td>Nadwozie</td>Silnik<td>
-	    	</td><td>Moc silnika</td><td>Produkowany</td>
-	    </tr>
-	    <tr>
-	    	<td>numer/td><td>Zdjęcie</td><td>Nazwa</td><td>Marka</td><td>Nadwozie</td>Silnik<td>
-	    	</td><td>Moc silnika</td><td>Produkowany</td>
-	    </tr>
-	   
-	  	
-	  </table>
-  		
-	
-	
-	</body>
+<head>
+<meta charset="UTF-8">
+<style>
+#tabela  { width:900px;}
+#tabela td{ border:1px solid; padding:5px;}
+
+.obrazek { width:100px; }
+
+#naglowek_1 {text-align:center; font-weight:bold; color:#000000; background-color: rgba(176, 170, 166, 1);}
+#naglowek_2 {text-align:center; font-weight:bold; color:#000000; background-color: rgba(176, 170, 166, 1);}
+
+.tekst { text-align:left; background-color:}
+</style>
+
+<title>Tabelka w html</title>
+</head>
+<body>
+<table id="tabela">
+		<tr id="naglowek_1">
+		<td colspan="2">Dodatki</td><td colspan="6">Dane techniczne</td>
+	</tr>
+	<tr id="naglowek_2">
+		<td>Numer</td><td>Zdjęcie</td><td>Nazwa</td><td>Marka</td><td>Nadwozie</td><td>Silnik</td><td>Moc silnika</td><td>Produkowany</td>
+	</tr>
+	<tr class="tekst">
+		<td  style="text-align:center;">1.</td><td style="text-align:center;"><img class="obrazek" src="https://cloud.githubusercontent.com/assets/138824/6326175/32e46b14-bb4f-11e4-9f14-78d49648e990.jpg"/></td><td>Citan kombi 108</td><td>Mercedes</td><td>Kombi</td><td>108 CDI 75KM</td><td>75KM przy 4000obr/min</td><td>od 2012 roku</td>
+	</tr>
+
+	</tr>
+	<tr class="tekst">
+		<td  style="text-align:center;">1.</td><td style="text-align:center;"><img class="obrazek" src="https://cloud.githubusercontent.com/assets/138824/6326204/88691382-bb4f-11e4-93b3-16d1d7389c79.jpg"/></td><td>Citan kombi 108</td><td>Mercedes</td><td>Kombi</td><td>108 CDI 75KM</td><td>75KM przy 4000obr/min</td><td>od 2012 roku</td>
+	</tr>	
+
+
+</table>
+</body>
 </html>
