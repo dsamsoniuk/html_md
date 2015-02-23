@@ -8,4 +8,4 @@
 
 
 [logo1]: https://cloud.githubusercontent.com/assets/138824/6326175/32e46b14-bb4f-11e4-9f14-78d49648e990.jpg "Logo mercedes" 
-[logo2]: http://data.motor-talk.de/data/galleries/0/83/3325/40622277/dsci0060-2322695060863130847.JPG "Logo volkswagen"
+[logo2]: https://cloud.githubusercontent.com/assets/138824/6326204/88691382-bb4f-11e4-93b3-16d1d7389c79.jpg "Logo volkswagen"
