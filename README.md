@@ -10,5 +10,5 @@ b) tabelka wykonana w html5 znajduje się pod nazwą tabelka_zad1.html
 
 c) program telewizyjny napisany w notacji ASCIIDOC znajduje sie pod nazwa programTV.asc
 
-##Zad. 2 Stworz responsywną strone
-link: [link]http://dsamsoniuk.github.io[/link]
+##Zad. 2 Stwórz responsywną strone
+link: http://dsamsoniuk.github.io
